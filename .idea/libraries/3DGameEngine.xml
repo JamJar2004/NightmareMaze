@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="3DGameEngine">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/3DGameEngine.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
